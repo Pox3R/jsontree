@@ -18,10 +18,9 @@ dict *
 ```
 ## How to start the server
 1. Download sources
-   1. Clone repository via git:
-   ```
-   git clone https://github.com/Pox3R/jsontree
-   ```
+```
+git clone https://github.com/Pox3R/jsontree
+```
 2. Now change current directory to project directory from terminal:
 ```
 cd jsontree
