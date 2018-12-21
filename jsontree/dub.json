@@ -1,0 +1,13 @@
+{
+	"description": "A minimal D application.",
+	"dependencies": {
+		"vibe-d": "~>0.8.4",
+		"jin-tree": "~>3.0.0"
+	},
+	"authors": [
+		"User"
+	],
+	"copyright": "Copyright © 2018, User",
+	"license": "proprietary",
+	"name": "jsontree"
+}
